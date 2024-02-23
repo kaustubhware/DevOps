@@ -1,6 +1,6 @@
 public class Demo {
     public static void main(String[] args) {
-System.out.println("123");
+System.out.println("123")
 /*
         int number1 = 5;
         int number2 = 6;
